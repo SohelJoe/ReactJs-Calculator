@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Demo : https://reactjs-calculator-c2af4.web.app/
 
 
-![Desktop-View](https://github.com/SohelJoe/ReactJs-Calculator/blob/master/Desktop-View.png)
+![Desktop-View](https://github.com/SohelJoe/ReactJs-Calculator/blob/master/Desktop-View.PNG)
 
 
 ![Mobile-View](https://github.com/SohelJoe/ReactJs-Calculator/blob/master/Mobile-View.jpeg)
